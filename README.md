@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ResumePilot
 
 ResumePilot is a local-first resume analyzer for college placement cells. It accepts PDF, DOCX, or pasted text, produces transparent advisory analysis, and stores analysis history in SQLite.
@@ -31,3 +32,7 @@ The Vite dev server proxies `/api` to `http://localhost:8000`.
 ## Privacy
 
 Resume text is used only to create the requested report. Analysis records are local SQLite rows and can be deleted from Analysis History. Uploaded files are processed in memory and are not retained. AI advice is advisory and must not be used to rank students using protected characteristics.
+=======
+# resume
+Resume Analyzer Project
+>>>>>>> bb3aa863f9f375e0fdd1d4f6261ff386352d7072
